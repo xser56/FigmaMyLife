@@ -1,0 +1,106 @@
+
+body {
+  background-image: url(../assets/BackgroundImage.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center; 
+}
+
+h1 {
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  height: 70px;
+  background-color: rgba(21, 18, 18, 0.655);
+  border-radius: 10px;
+  color: aliceblue;
+  outline-style: solid;
+  outline-color: rgba(255, 255, 255, 0.632);
+}
+h2
+{
+  color: aliceblue;
+}
+
+h3{
+  color: aliceblue;
+}
+h4{
+  color: aliceblue;
+}
+
+h5
+{
+  color: aliceblue;
+}
+
+p{
+  color: aliceblue;
+  font-size: 1.3rem;
+}
+
+.container
+{
+  background-color: rgba(21, 18, 18, 0.829);
+  border-radius: 10px;
+}
+
+.alignText
+{
+  text-align: center;
+}
+
+.accordion-button
+  {
+  background-color: rgba(148, 210, 223, 0.547);
+  }
+
+.accordion-body
+{
+  background-color: rgba(156, 228, 242, 0.592);
+}
+
+.bkground
+{
+  background-color:rgba(240, 225, 225, 0)
+}
+
+.BtnColors
+{
+  background-color: rgb(21, 18, 18, 0.474);
+  color: aliceblue; 
+}
+
+.card-title
+{
+  color:aliceblue;
+}
+
+.navbarColors
+{
+  background-color: rgba(255, 255, 255, 0.978);
+  margin-top: 2px;
+  border-radius: 5px;
+  outline-style: solid;
+  outline-color: rgba(0, 0, 0, 0.782);
+}
+
+.backgroundGreen
+{
+  background-color: greenyellow;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+
+}
+.backgroundYellow
+{
+ background-color: yellow;
+}
+.backgroundBlue
+{
+  background-color: lightblue;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
